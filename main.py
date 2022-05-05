@@ -1,3 +1,8 @@
+### By Pedro Lucero, 2021 ###
+### Biosystem.py by Eglė Plėštytė, 2017 ###
+# Coded this for iGem Design League, 2021
+# Here we model the protein and GFP reporter concentrations
+# as well as their correlation, in the span of 30mins.
 ## PART ONE ##
 from Biosystem import *
 from Part import *
